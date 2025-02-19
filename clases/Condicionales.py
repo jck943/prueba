@@ -1,6 +1,8 @@
-numero = 3
+numero = int(input("Número: "))
 
 if numero < 2:
-    print("El número es inferior a 2")
+    print("El Nº es inferior a 2")
+elif numero > 4:
+    print("Nº grande")
 else:
-    print("El número es mayor o igual a 2")
+    print("El Nº es mayor")
