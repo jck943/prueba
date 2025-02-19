@@ -22,3 +22,7 @@ print(numero1 % numero2) # Resto de la división
 print(numero1 * numero2) # Multiplicación
 print(numero1 ** numero2) # Potencia
 print(numero1 ** 0.5) # Raíz cuadrada
+
+
+nombres = ["Fulano", "Flautin", 4]
+numeros = [3, 4, 5, 3]
